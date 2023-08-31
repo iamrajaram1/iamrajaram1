@@ -158,20 +158,26 @@ I'm proud to be a contributor to CNCF projects and other technologies:
 
 ![CloudnLoud Tech Community](https://github.com/iamrajaram1/iamrajaram1/blob/main/cloudnloud-Community.gif)
 
+## 🌟 Technical Contribution & Volunteering
+
+![CloudnLoud Tech Community](https://github.com/iamrajaram1/iamrajaram1/blob/main/cloudnloud-Community.gif)
+
 **Community Leader (CloudOps Lead Evangelist)**
-- Role: Community CloudOps Lead Evangelist
-- Community Link: [CloudnLoud Tech Community](https://cloudnloud.com)
-- Proudly part of the CloudnLoud Tech Community Core team.
+- 🚀 Role: Community CloudOps Lead Evangelist
+- 🔗 Community Link: [CloudnLoud Tech Community](https://cloudnloud.com)
+- 🌟 Proudly part of the CloudnLoud Tech Community Core team.
 
 The CloudnLoud Tech Community is a non-profit open source tech community, driven by volunteers, presenting events and activities for tech enthusiasts.
 
 We organize free tech conferences, technical trainings, and discussions on various IT technologies & open source tools. Our mission is to bring together professionals, leaders, and companies to advance the success of the project and contribute to a meaningful cause — saving millions of children affected by cancer.
 
-## ROLE: # AICAMP- HYDERABAD CHAPTER LEAD
+
+## ROLE: 👨‍💼 AICAMP- HYDERABAD CHAPTER LEAD
 
 <p>
-I'm honored to serve as the Hyderabad Chapter Lead for AICamp, signifying my responsibility for guiding and supervising the initiatives of the AICamp community within the Hyderabad area. My goal is to cultivate an engaging and nurturing atmosphere, bringing together individuals passionate about AI to explore, exchange ideas, and work together. In my role as the Chapter Lead, I play a crucial part in molding the local AI community and facilitating the exchange of knowledge among its members.
+🚀 I'm honored to serve as the Hyderabad Chapter Lead for AICamp, signifying my responsibility for guiding and supervising the initiatives of the AICamp community within the Hyderabad area. My goal is to cultivate an engaging and nurturing atmosphere, bringing together individuals passionate about AI to explore, exchange ideas, and work together. In my role as the Chapter Lead, I play a crucial part in molding the local AI community and facilitating the exchange of knowledge among its members.
 </p>
+
 
 # :globe_with_meridians: Join Me in the Meetup Sphere:
 
