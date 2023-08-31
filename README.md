@@ -158,16 +158,12 @@ I'm proud to be a contributor to CNCF projects and other technologies:
 
 ![CloudnLoud Tech Community](https://github.com/iamrajaram1/iamrajaram1/blob/main/cloudnloud-Community.gif)
 
-## 🌟 Technical Contribution & Volunteering
-
-![CloudnLoud Tech Community](https://github.com/iamrajaram1/iamrajaram1/blob/main/cloudnloud-Community.gif)
-
 **Community Leader (CloudOps Lead Evangelist)**
 - 🚀 Role: Community CloudOps Lead Evangelist
 - 🔗 Community Link: [CloudnLoud Tech Community](https://cloudnloud.com)
 - 🌟 Proudly part of the CloudnLoud Tech Community Core team.
 
-The CloudnLoud Tech Community is a non-profit open source tech community, driven by volunteers, presenting events and activities for tech enthusiasts.
+The ☁️ CloudnLoud Tech Community is a non-profit open source tech community, driven by volunteers, presenting events and activities for tech enthusiasts.
 
 We organize free tech conferences, technical trainings, and discussions on various IT technologies & open source tools. Our mission is to bring together professionals, leaders, and companies to advance the success of the project and contribute to a meaningful cause — saving millions of children affected by cancer.
 
