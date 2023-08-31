@@ -169,9 +169,8 @@ We organize free tech conferences, technical trainings, and discussions on vario
 
 
 ## ROLE: 👨‍💼 AICAMP- HYDERABAD CHAPTER LEAD
-
 <p>
-🚀 I'm honored to serve as the Hyderabad Chapter Lead for AICamp, signifying my responsibility for guiding and supervising the initiatives of the AICamp community within the Hyderabad area. My goal is to cultivate an engaging and nurturing atmosphere, bringing together individuals passionate about AI to explore, exchange ideas, and work together. In my role as the Chapter Lead, I play a crucial part in molding the local AI community and facilitating the exchange of knowledge among its members.
+🚀 I'm honored to serve as the Hyderabad Chapter Lead for AICamp, signifying my responsibility for guiding and supervising the initiatives of the AICamp community within the Hyderabad area. My goal is to cultivate an engaging and nurturing atmosphere, bringing together individuals passionate about AI to explore, exchange ideas, and work together. In my role as the Chapter Lead, I play a crucial part in molding the local AI community and facilitating the exchange of knowledge among its members. 🌆
 </p>
 
 
