@@ -133,36 +133,32 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 </div>
 
 
-## :rocket: CNCF Contributions
+## :rocket: My Current CNCF Endeavors
 
 I'm proud to be a contributor to CNCF projects and other technologies:
 
-- ![Zabbix Logo](https://raw.githubusercontent.com/iamrajaram1/iamrajaram1/main/icons/zabbix-logo.png) **Zabbix:** Monitoring solution for your networks and servers. [GitHub Repo](https://github.com/iamrajaram1/zabbix)
 
-- ![Komiser Logo](https://raw.githubusercontent.com/iamrajaram1/iamrajaram1/main/icons/komiser-logo.png) **Komiser:** Cloud Environment Inspector. [GitHub Repo](https://github.com/iamrajaram1/komiser)
+:white_check_mark: **Komiser:** Cloud Environment Inspector. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/komiser)
 
-- ![Tailwarden Logo](https://raw.githubusercontent.com/iamrajaram1/iamrajaram1/main/icons/tailwarden-logo.png) **Tailwarden:** A self-hosted Bitwarden server with analytics. [GitHub Repo](https://github.com/iamrajaram1/tailwarden)
+:white_check_mark: **Zabbix:** Monitoring solution for networks and servers. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/zabbix)
 
-- ![ELK Stack Logo](https://raw.githubusercontent.com/iamrajaram1/iamrajaram1/main/icons/elkstack-logo.png) **ELK Stack:** Elasticsearch, Logstash, and Kibana for powerful log management and analytics. [GitHub Repo](https://github.com/iamrajaram1/ELK-Stack)
+:white_check_mark: **Tailwarden:** A self-hosted Bitwarden server with analytics. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/tailwarden)
 
-- ![Wazuh Logo](https://raw.githubusercontent.com/iamrajaram1/iamrajaram1/main/icons/wazuh-logo.png) **Wazuh:** Security information and event management (SIEM) platform. [GitHub Repo](https://github.com/iamrajaram1/Wazuh)
+:white_check_mark: **Wazuh:** Security information and event management (SIEM) platform. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/Wazuh)
+
+:white_check_mark: **ELK Stack:** Elasticsearch, Logstash, and Kibana for powerful log management and analytics. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/ELK-Stack)
+
 
 ---
 
-![GitHub Profile](https://github-readme-stats.vercel.app/api?username=iamrajaram1&show_icons=true&theme=dark)
-
----
-
-![GitHub Profile](https://github-readme-stats.vercel.app/api?username=iamrajaram1&show_icons=true&theme=dark)
-
-
+![GitHub Profile](https://github-readme-stats.vercel.app/api?username=iamrajaram1&show_icons=true&theme=white)
 
 ## 🌟 Technical Contribution & Volunteering
 
 ![CloudnLoud Tech Community](https://github.com/iamrajaram1/iamrajaram1/blob/main/cloudnloud-Community.gif)
 
-**Community Developer Lead (Developer Advocate)**
-- Role: Community Developer Lead
+**Community Leader (CloudOps Lead Evangelist)**
+- Role: Community CloudOps Lead Evangelist
 - Community Link: [CloudnLoud Tech Community](https://cloudnloud.com)
 - Proudly part of the CloudnLoud Tech Community Core team.
 
@@ -170,10 +166,23 @@ The CloudnLoud Tech Community is a non-profit open source tech community, driven
 
 We organize free tech conferences, technical trainings, and discussions on various IT technologies & open source tools. Our mission is to bring together professionals, leaders, and companies to advance the success of the project and contribute to a meaningful cause — saving millions of children affected by cancer.
 
+## ROLE: # AICAMP- HYDERABAD CHAPTER LEAD
 
-##### 🌟 Contributed to the production of edited videos, the development of poster designs, and the creation of comprehensive documentation for the following utilization scenarios:
+<p>
+I'm honored to serve as the Hyderabad Chapter Lead for AICamp, signifying my responsibility for guiding and supervising the initiatives of the AICamp community within the Hyderabad area. My goal is to cultivate an engaging and nurturing atmosphere, bringing together individuals passionate about AI to explore, exchange ideas, and work together. In my role as the Chapter Lead, I play a crucial part in molding the local AI community and facilitating the exchange of knowledge among its members.
+</p>
 
-### Cloudnloud Community 2022 Free Programs
+# :globe_with_meridians: Join Me in the Meetup Sphere:
+
+Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm an active Co-Organizer in these vibrant meetup communities:
+
+- :rocket: Co-Organizer of **cloud-devops-sre-europe-uk** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/cloud-devops-sre-europe-uk/) - where cloud, DevOps, and SRE enthusiasts converge for insightful discussions and learning experiences.
+
+- :partying_face: Co-Organizer of **Cloud Native Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/cloud-native-europe-uk/) - a dynamic space for the cloud-native curious to gather, exchange ideas, and explore the latest trends.
+
+## ☁️ Cloudnloud Community 2022 Free Programs
+
+🌟 Contributed to the production of edited videos, the development of poster designs, and the creation of comprehensive documentation for the following utilization scenarios:
 
 - [Cloudnloud Community 2022 Free Programs](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/)
 
