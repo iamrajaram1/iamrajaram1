@@ -6,6 +6,20 @@ Hello, I'm Rajaram Erraguntla, You can address me with Raj
 
 Welcome to my GitHub profile! I'm a passionate CloudOps Lead with over 7 years of professional experience in the IT industry. My expertise spans across various domains, including Linux Administration, Software Development Life Cycle (SDLC), and DevOps practices. I have a proven track record of delivering robust solutions and optimizing processes to drive efficiency.
 
+### 💻 Tech Stack: Expertise 🛠️
+
+| Category          | Technologies / Tools                                |
+|-------------------|----------------------------------------------------|
+| Web and Application Server | Apache Tomcat 7.0                      |
+| Operating System | UNIX, Linux, Windows 2008, 2007/2012 Server       |
+| Ticketing Tools | HP Service Manager (SM9), Service Now, JIRA, IBM Rational ClearQuest, BMC Remedy |
+| Supporting Tools | Splunk, Dynatrace, IBM Tivoli Workload Scheduler, VL Trader, Citrix, SSH Transmission protocols (FTP, SFTP, HTTPS, FTPS/SSL, PGP encryption, etc.), BMC Remedy Ticketing tool, IBM UCD Deploy, JBoss, TNOCC, IBM Data Stage, Secure FX, Secure CRT, Putty, SQL Server Management Studio |
+| Monitoring Tools | Autosys, Dynatrace, Splunk                        |
+| DevOps Tools | GitHub, Bitbucket, Maven, Jenkins, Docker, JIRA, Confluence, Terraform, Kubernetes |
+| SCM Tools | Git                                             |
+| CMS | TeamSite, AEM                                    |
+| Cloud Technologies | AWS, Oracle, Azure, Workfront                 |
+
 ### 🌱 Always Learning
 
 I believe in the power of continuous learning and staying up-to-date with the latest industry trends. I'm committed to enhancing my skills in cloud technologies, automation, and DevOps practices.
@@ -53,4 +67,39 @@ We organize free tech conferences, technical trainings, and discussions on vario
 
 
 # 💻 Tech Stack:
+
+# Cloudnloud Community 2022 Free Programs
+
+- [Cloudnloud Community 2022 Free Programs](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/
+
+# AWS Cloud Free 2 months Internship - Week 1
+
+- [Cloud DevOps Free 4 months UseCase RealTime Internship](https://youtu.be/V-2ME9qCGIk)
+- [Syllabus - Cloud DevOps Free 4 months UseCases Real-time Internship](https://youtu.be/8PsJG53-D6U)
+- [AWS Cloud DevOps UseCase Internship Day1 Slot1](https://youtu.be/POfrtFFNq3Y)
+- [AWS Cloud DevOps UseCase Internship Day1 Slot2](https://youtu.be/0IXpnDOR81M)
+- [AWS Cloud DevOps UseCase Internship Day1 Slot3](https://youtu.be/aHobd28K9eo)
+- [AWS Cloud DevOps UseCase Internship Day1 Slot4](https://youtu.be/O_kWJgQbh8U)
+- [AWS Cloud DevOps UseCase Internship Day2 Slot1](https://youtu.be/IWC9Pw-AKfw)
+- [AWS Cloud DevOps UseCase Internship Day2 Slot2](https://youtu.be/bxZ_7l1tuA4)
+- [AWS Cloud DevOps UseCase Internship Day2 Slot3](https://youtu.be/wcACvI70SYk)
+
+
+# AWS Cloud Free 2 months Internship - Week 2
+
+- [AWS Cloud DevOps UseCase Internship Day3 Slot1](https://youtu.be/S6jyaTq6PWo)
+- [AWS Cloud DevOps UseCase Internship Day3 Slot2](https://youtu.be/w9CrsuZ0cP8)
+- [AWS Cloud DevOps UseCase Internship Day4 Slot1](https://youtu.be/cnRzm_MlM5g)
+- [AWS Cloud DevOps UseCase Internship Day4 Slot2](https://youtu.be/VOpHbf-JPdw)
+- [AWS Cloud DevOps UseCase Internship Day4 Slot3](https://youtu.be/TfCfTI_LH9o)
+
+# AWS Cloud Free 2 months Internship - Week 3
+
+
+- [AWS Cloud DevOps Use Case InternShip Day5 Slot1](https://youtu.be/pvIgAj3XSag)
+- [AWS Cloud DevOps Use Case InternShip Day5 Slot2](https://youtu.be/zXxFQZ-xwdA)
+- [AWS Cloud DevOps UseCase Internship Day5 Slot3](https://youtu.be/WBn_xOmT4xc)
+- [AWS Cloud DevOps Internship Week 3 Day 6 Slot1](https://youtu.be/RNl-gXDrCoU)
+- [AWS Cloud DevOps Internship Week 3 Day 6 Slot2](https://youtu.be/8Q9ftmHx1aA)
+
 
