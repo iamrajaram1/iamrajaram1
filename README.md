@@ -185,7 +185,7 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 🌟 Contributed to the production of edited videos, the development of poster designs, and the creation of comprehensive documentation for the following utilization scenarios:
 
-- [Cloudnloud Community 2022 Free Programs](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/)
+- [Cloudnloud Community NewsLetter](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/)
 
 <div align="center">
 
