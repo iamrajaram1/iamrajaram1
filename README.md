@@ -187,6 +187,8 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 - [Cloudnloud Community 2022 Free Programs](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/)
 
+<div align="center">
+
 ## AWS Cloud Free 2 months Internship - Week 1
 
 | AWS Topic | Video Link |
@@ -268,4 +270,5 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 | AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot1 | [Watch](https://youtu.be/ZHuvfk6VOZs) |
 | AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot2 | [Watch](https://youtu.be/KlVfpKrFChM) |
 
+</div>
 
