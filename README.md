@@ -1,12 +1,10 @@
 # 💫 About Me:
 
-# Hello, I'm Rajaram Erraguntla, You can address me with Raj
+Hello, I'm Rajaram Erraguntla, You can address me with Raj
 
 ## CloudOps Lead | AWS Enthusiast | DevOps Evangelist
 
 Welcome to my GitHub profile! I'm a passionate CloudOps Lead with over 7 years of professional experience in the IT industry. My expertise spans across various domains, including Linux Administration, Software Development Life Cycle (SDLC), and DevOps practices. I have a proven track record of delivering robust solutions and optimizing processes to drive efficiency.
-
-🔭 I’m currently working on 100-Days-Of-Cloud-Challenge<br><br>🌱 I’m currently learning GCP and Security Strategies<br><br>👯 I’m looking to collaborate on AWS, GCP & OCI<br><br>🤝 I’m looking for help with Terraform and Kubernetes<br><br>📝 I regularly write articles on https://iamrajaram1.medium.com/<br><br>💬 Ask me about CloudOps, FinOps and SecOps<br><br>📫 How to reach me rajaram.erraguntla@gmail.com
 
 ### 🌱 Always Learning
 
@@ -30,7 +28,7 @@ Feel free to reach out to me for collaboration, discussions, or any queries rela
 - **Open Source Contributor:** Contributing to open source projects to give back to the community.
 - **Hobbies:** Outside of tech, I enjoy hiking, playing the guitar, and experimenting with new recipes.
 
-![CNCF Contributions](https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif)
+![CNCF Contributions]
 
 I'm proud to be a contributor to CNCF projects and other technologies:
 
