@@ -8,7 +8,6 @@ I'm naturally skilled at solving problems. Think of me wielding a toolkit packed
 
 My journey revolves around devising ingenious solutions, embarking on AWS expeditions, and navigating uncharted territories in the open-source world. Together, these threads weave a tapestry of seamless operations. If technology were a masterpiece, I'd be the precise brushstrokes on the canvas of innovation! 🎨
 
-
 ## 🌱 Always Learning
 
 I believe in the power of continuous learning and staying up-to-date with the latest industry trends. I'm committed to enhancing my skills in cloud technologies, automation, and DevOps practices.
