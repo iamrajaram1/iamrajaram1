@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hey there, *welcome to my GitHub world!* 👋 I'm **Rajaram Erraguntla**, but you can call me **Raj**. 
+Hey there, *welcome to my GitHub world!* 👋 I'm **Rajaram Erraguntla**, but you can call me **Raj**.
 
 I've spent more than **7+ years as a CloudOps Lead | AWS Enthusiast | DevOps Evangelist** and I'm really into AWS and DevOps. 🚀 Imagine me as a digital architect who crafts the realm of cloud technology. It's like I'm the one ensuring the backstage magic runs seamlessly for software development (that's the SDLC part), all while grooving to the beat of DevOps practices. 🕺
 
