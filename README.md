@@ -162,14 +162,14 @@ I'm proud to be a contributor to CNCF projects and other technologies:
 - 🔗 Community Link: [CloudnLoud Tech Community](https://cloudnloud.com)
 - 🌟 Proudly part of the CloudnLoud Tech Community Core team.
 
-The ☁️ CloudnLoud Tech Community is a non-profit open source tech community, driven by volunteers, presenting events and activities for tech enthusiasts.
+The ☁️ CloudnLoud Tech Community is a non-profit open-source tech community, driven by volunteers, presenting events and activities for tech enthusiasts.
 
-We organize free tech conferences, technical trainings, and discussions on various IT technologies & open source tools. Our mission is to bring together professionals, leaders, and companies to advance the success of the project and contribute to a meaningful cause — saving millions of children affected by cancer.
+We organize free tech conferences, technical trainings, and discussions on various IT technologies & open-source tools. Our mission is to bring together professionals, leaders, and companies to advance the project's success and contribute to a meaningful cause — saving millions of children affected by cancer.
 
 
 ## ROLE: 👨‍💼 AICAMP- HYDERABAD CHAPTER LEAD
 <p>
-🚀 I'm honored to serve as the Hyderabad Chapter Lead for AICamp, signifying my responsibility for guiding and supervising the initiatives of the AICamp community within the Hyderabad area. My goal is to cultivate an engaging and nurturing atmosphere, bringing together individuals passionate about AI to explore, exchange ideas, and work together. In my role as the Chapter Lead, I play a crucial part in molding the local AI community and facilitating the exchange of knowledge among its members. 🌆
+🚀 I'm honored to serve as the Hyderabad Chapter Lead for AICamp, signifying my responsibility for guiding and supervising the initiatives of the AICamp community within the Hyderabad area. I aim to cultivate an engaging and nurturing atmosphere, bringing together individuals passionate about AI to explore, exchange ideas, and work together. As the Chapter Lead, I play a crucial part in molding the local AI community and facilitating the exchange of knowledge among its members. 🌆
 </p>
 
 
@@ -181,94 +181,4 @@ Engaging with tech enthusiasts and sharing knowledge is a passion of mine. I'm a
 
 - :partying_face: Co-Organizer of **Cloud Native Europe & UK** [![Meetup](https://img.shields.io/badge/Meetup-%23ED1C40.svg?logo=Meetup&logoColor=white)](https://www.meetup.com/cloud-native-europe-uk/) - a dynamic space for the cloud-native curious to gather, exchange ideas, and explore the latest trends.
 
-## ☁️ Cloudnloud Community 2022 Free Programs
-
-🌟 Contributed to the production of edited videos, the development of poster designs, and the creation of comprehensive documentation for the following utilization scenarios:
-
-- [Cloudnloud Community NewsLetter](https://www.linkedin.com/pulse/cloudnloud-community-2022-recap-vijayabalan-balakrishnan/)
-
-<div align="center">
-
-## AWS Cloud Free 2 months Internship - Week 1
-
-| AWS Topic | Video Link |
-|---------|------------|
-| AWS Cloud DevOps UseCase RealTime Internship | [Watch](https://youtu.be/V-2ME9qCGIk) |
-| AWS Cloud DevOps Syllabus -UseCase Real-time | [Watch](https://youtu.be/8PsJG53-D6U) |
-| AWS Cloud DevOps UseCase Internship Day1 Slot1 | [Watch](https://youtu.be/POfrtFFNq3Y) |
-| AWS Cloud DevOps UseCase Internship Day1 Slot2 | [Watch](https://youtu.be/0IXpnDOR81M) |
-| AWS Cloud DevOps UseCase Internship Day1 Slot3 | [Watch](https://youtu.be/aHobd28K9eo) |
-| AWS Cloud DevOps UseCase Internship Day1 Slot4 | [Watch](https://youtu.be/O_kWJgQbh8U) |
-| AWS Cloud DevOps UseCase Internship Day2 Slot1 | [Watch](https://youtu.be/IWC9Pw-AKfw) |
-| AWS Cloud DevOps UseCase Internship Day2 Slot2 | [Watch](https://youtu.be/bxZ_7l1tuA4) |
-| AWS Cloud DevOps UseCase Internship Day2 Slot3 | [Watch](https://youtu.be/wcACvI70SYk) |
-
-## AWS Cloud Free 2 months Internship - Week 2
-
-| AWS Topic | Video Link |
-|---------|------------|
-| AWS Cloud DevOps UseCase Internship Day3 Slot1 | [Watch](https://youtu.be/S6jyaTq6PWo) |
-| AWS Cloud DevOps UseCase Internship Day3 Slot2 | [Watch](https://youtu.be/w9CrsuZ0cP8) |
-| AWS Cloud DevOps UseCase Internship Day4 Slot1 | [Watch](https://youtu.be/cnRzm_MlM5g) |
-| AWS Cloud DevOps UseCase Internship Day4 Slot2 | [Watch](https://youtu.be/VOpHbf-JPdw) |
-| AWS Cloud DevOps UseCase Internship Day4 Slot3 | [Watch](https://youtu.be/TfCfTI_LH9o) |
-
-## AWS Cloud Free 2 months Internship - Week 3
-
-| AWS Topic | Video Link |
-|---------|------------|
-| AWS Cloud DevOps Use Case InternShip Day5 Slot1 | [Watch](https://youtu.be/pvIgAj3XSag) |
-| AWS Cloud DevOps Use Case InternShip Day5 Slot2 | [Watch](https://youtu.be/zXxFQZ-xwdA) |
-| AWS Cloud DevOps UseCase Internship Day5 Slot3 | [Watch](https://youtu.be/WBn_xOmT4xc) |
-| AWS Cloud DevOps Internship Week 3 Day 6 Slot1 | [Watch](https://youtu.be/RNl-gXDrCoU) |
-| AWS Cloud DevOps Internship Week 3 Day 6 Slot2 | [Watch](https://youtu.be/8Q9ftmHx1aA) |
-
-## AWS Cloud Free 2 months Internship - Week 4
-
-| AWS Topic | Video Link |
-|---------|------------|
-| AWS Cloud DevOps UseCase Internship Week 4 Day 7 Slot1 | [Watch](https://youtu.be/0S_rqkVfNTc) |
-| AWS Cloud DevOps UseCase Internship Week 4 Day 7 Slot2 | [Watch](https://youtu.be/EBi89LuXhLc) |
-| AWS Cloud DevOps UseCase Internship Week 4 Day 8 Slot1 | [Watch](https://youtu.be/n4IlrolvkCA) |
-| AWS Cloud DevOps UseCase Internship Week 4 Day 8 Slot2 | [Watch](https://youtu.be/VbGey_cjBPI) |
-| AWS Cloud DevOps UseCase Internship Week 4 Day 8 Slot3 | [Watch](https://youtu.be/ExzBULc8Oqg) |
-
-## AWS Cloud Free 2 months Internship - Week 5
-
-| AWS Topic | Video Link |
-|---------|------------|
-| AWS Cloud DevOps UseCase Internship Week 5 Day 9 Slot2 | [Watch](https://youtu.be/LR83GLZhsH4) |
-| AWS Cloud DevOps UseCase Internship Week 5 Day 9 Slot1 | [Watch](https://youtu.be/p2ntu-VHnBI) |
-| AWS Cloud DevOps UseCase Internship Week 5 Day 10 Slot1 | [Watch](https://youtu.be/t0KTVWfBlpg) |
-| AWS Cloud DevOps UseCase Internship Week 5 Day 10 Slot2 | [Watch](https://youtu.be/xL57lnOWK7Y) |
-| AWS Cloud DevOps UseCase Internship Week 5 Day 10 Slot3 | [Watch](https://youtu.be/6GlXJn41d3A) |
-
-## AWS Cloud Free 2 months Internship - Week 6
-
-| AWS Topic | Video Link |
-|---------|------------|
-| AWS Cloud DevOps UseCase Internship Week 6 Day 11 Slot1 | [Watch](https://youtu.be/fBJEz4LxAdg) |
-| AWS Cloud DevOps UseCase Internship Week 6 Day 11 Slot2 | [Watch](https://youtu.be/tLwZUKuS7Z0) |
-| AWS Cloud DevOps UseCase Internship Week 6 Day 12 Slot1 | [Watch](https://youtu.be/n5aFlLMpTYg) |
-| AWS Cloud DevOps UseCase Internship Week 6 Day 12 Slot2 | [Watch](https://youtu.be/fXWsBhGA8rw) |
-
-## AWS Cloud Free 2 months Internship - Week 7
-
-| AWS Topic | Video Link |
-|---------|------------|
-| Cloud DevOps UseCase Internship Week 7 Day 13 Slot1 | [Watch](https://youtu.be/vo4X-IKkwwU) |
-| Cloud DevOps UseCase Internship Week 7 Day 13 Slot2 | [Watch](https://youtu.be/L2ZUF6e2bJ4) |
-| AWS Cloud DevOps UseCase Internship Week 7 Day 14 Slot1 | [Watch](https://youtu.be/Tcg-Vx9NPyo) |
-| AWS Cloud DevOps UseCase Internship Week 7 Day 14 Slot2 | [Watch](https://youtu.be/D0N1TGC7g6g) |
-
-## AWS Cloud Free 2 months Internship - Week 8
-
-| AWS Topic | Video Link |
-|---------|------------|
-| AWS Cloud DevOps UseCase Internship Week 8 Day 15 Slot1 | [Watch](https://youtu.be/dy1W4VQuDEI) |
-| AWS Cloud DevOps UseCase Internship Week 8 Day 15 Slot2 | [Watch](https://youtu.be/sZtKLSAIw28) |
-| AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot1 | [Watch](https://youtu.be/ZHuvfk6VOZs) |
-| AWS Cloud DevOps UseCase Internship Week 8 Day 16 Slot2 | [Watch](https://youtu.be/KlVfpKrFChM) |
-
-</div>
 
