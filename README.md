@@ -132,7 +132,7 @@ Welcome to my Tech Stack! Here's a glimpse of my areas of expertise and the tool
 </div>
 
 
-## :rocket: My Current CNCF Endeavors
+<!-- ## :rocket: My Current CNCF Endeavors
 
 I'm proud to be a contributor to CNCF projects and other technologies:
 
@@ -145,7 +145,7 @@ I'm proud to be a contributor to CNCF projects and other technologies:
 
 :white_check_mark: **Wazuh:** Security information and event management (SIEM) platform. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/Wazuh)
 
-:white_check_mark: **ELK Stack:** Elasticsearch, Logstash, and Kibana for powerful log management and analytics. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/ELK-Stack)
+:white_check_mark: **ELK Stack:** Elasticsearch, Logstash, and Kibana for powerful log management and analytics. [![GitHub Repo](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=GitHub&logoColor=white)](https://github.com/iamrajaram1/ELK-Stack) -->
 
 
 ---
